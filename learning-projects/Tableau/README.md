@@ -50,7 +50,8 @@
 
 🔗 [View Dashboard](https://public.tableau.com/views/Homework_2_Kryvosheia-Zakharova/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-📷 ![Метрики](./screenshots/screenshots/revenue-metrics.png)
+📷 ![Metrics](./screenshots/revenue-metrics.png)
+
 
 ---
 
