@@ -15,4 +15,4 @@
 🔗 [Переглянути таблицю](https://docs.google.com/spreadsheets/d/1HZo04_lgxyDE71YbKxHFV27XerpPfz8Y-cMFcAxXm-U/edit?gid=567183743#gid=567183743)  
 
 📸 Знімок екрана:  
-![Перегляд](./screenshots/game_revenue_sheet.png)
+![Перегляд](./screenshots/games_payments.png)
