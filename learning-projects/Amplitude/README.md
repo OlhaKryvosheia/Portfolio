@@ -18,4 +18,6 @@
 
 ---
 
-### 📸 [User Journey](./screenshots/JourneyMap.png)  
+### 📸 ![User Journey](./screenshots/JourneyMap.png)  
+
+---
