@@ -4,8 +4,7 @@
 
 ### 1. 🧩 Аналіз активності користувачів мобільної гри 
 
-🔗 [View Dashboard](https://public.tableau.com/views/_17513603848930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-📷 ![Активність](./screenshots/Аналіз активності користувачів мобільної гри.png)
+🔗 [View Dashboard](https://public.tableau.com/views/_17513603848930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)    📷 ![Активність](./screenshots/Аналіз активності користувачів мобільної гри.png)
 ---
 
 ### 2. 🧩 Аналіз Revenue продуктової компанії 
