@@ -4,4 +4,4 @@
 
 🔗 [Переглянути таблицю](https://drive.google.com/file/d/1SgYSKdir2b11tIjB-ltGs8MppUBMQ0mh/view?usp=sharing)
 
-📸 ![Перегляд](./screenshots/games_payments.png)
+📸 ![Перегляд](./screenshots/ABTest.png)
