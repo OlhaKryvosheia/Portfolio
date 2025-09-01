@@ -8,7 +8,7 @@
 
 🔗 [Перейти до інтерактивного дашборду](https://app.powerbi.com/reportEmbed?reportId=663c7e10-efa5-4478-8731-a0cc8daf92fa&autoAuth=true&ctid=226284fe-d303-43af-b4d9-64b5e861dfea)
 
-📷 ![Dashboard Screenshot](./screenshots/bavovnahelp_db.png)
+📷 ![Dashboard Screenshot](./bavovnahelp_db.png)
 
 
 
